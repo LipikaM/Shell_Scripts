@@ -1,7 +1,7 @@
 #########################################################################
 # Filename	:  foot2head_teds.sh
 # Purpose	:  Move footers to headers
-# Created by	:  Murari 
+# Created by	:  Lipika Majumdar 
 # Date		:   29/09/2010
 # Parameters	:  Source_DIR => Name of Source directory
 #                       	   File_Pattern => Pattern of file name
