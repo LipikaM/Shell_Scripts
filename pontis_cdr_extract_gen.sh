@@ -14,11 +14,10 @@
 #
 #Change History:
 #
-# Changed Date By       Reason
+# Changed           Date By        Reason
 # -----------------------------------------------
-# 10/05/2011   Ramesh   CDR feed
+# 10/05/2011   Lipika Majumdar   CDR feed
 # ----------------------------------------------------------------------------
-#. /usr/local/bin/tedmngr.env
 
 #PARAMETERS
 PROCESS_ID=$1
